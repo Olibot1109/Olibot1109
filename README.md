@@ -1,14 +1,16 @@
-<h1 align="center">Hey, I'm Olibot1109! 🤖</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vCenter=true&width=435&lines=Lil+nerd+%F0%9F%A4%93;Open+source+enjoyer+%F0%9F%8C%8D;Always+building+something+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Olibot1109;Lil+nerd;Open+source+enjoyer;Always+building+something" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header&text=Welcome+to+my+profile!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Languages
+## Tech Stack & Languages
 
-<!-- DELETE the ones you don't use! -->
+<!-- Remove the ones you don't use! -->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,21 +21,15 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
-## 🧰 Frameworks & Tools
+## Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,26 +41,47 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olibot1109&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olibot1109&theme=onedark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olibot1109&theme=react&line=0066FF&point=003399&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Olibot1109&theme=onedark" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Olibot1109&theme=onedark&hide_border=false" />
 
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olibot1109&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=20" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Olibot1109&color=0066FF&style=for-the-badge" />
-</p>
+## Most Committed Repos & Languages
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Olibot1109&theme=onedark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Olibot1109&theme=onedark" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Olibot1109&theme=onedark&utcOffset=0" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Olibot1109&theme=onedark" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Olibot1109&theme=react-dark&line=0066FF&point=003399&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer&animation=fadeIn" />
+
+<img src="https://komarev.com/ghpvc/?username=Olibot1109&color=0066FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
