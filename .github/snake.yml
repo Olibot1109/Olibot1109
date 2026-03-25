@@ -1,8 +1,11 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - main   # change if needed
   schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
 permissions:
